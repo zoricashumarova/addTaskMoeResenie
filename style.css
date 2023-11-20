@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+.container {
+  text-align: center;
+}
+
+input {
+  padding: 8px;
+}
+
+.input-border {
+  border-radius: 5px;
+  border: 2px solid red;
+}
+
+button {
+  padding: 8px;
+  cursor: pointer;
+  margin: 2px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.btn-color {
+  color: green;
+  font-weight: bold;
+}
